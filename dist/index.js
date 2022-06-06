@@ -8,7 +8,7 @@ document.querySelector("#SS").addEventListener("click",()=>
        Invoke('Screen_shot',{ var:path.toString()})
        path = path+1;
 
-       //window.alert to let user know that screen shot is taken
+       //window.alert to let user know that screen sho
        alert("you took Screen shot")
 
 })
